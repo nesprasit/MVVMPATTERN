@@ -1,0 +1,2 @@
+rootProject.name='MVVMPattern'
+include ':app'

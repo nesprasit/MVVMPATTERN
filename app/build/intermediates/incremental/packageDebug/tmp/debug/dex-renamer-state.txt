@@ -1,0 +1,4 @@
+#Thu May 07 15:45:39 ICT 2020
+base.0=/Users/prasit.s/Desktop/Playgroud/MVVMPattern/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
